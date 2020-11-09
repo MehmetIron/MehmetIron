@@ -17,7 +17,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>Lambda</li>
  <li>RDS</li>
  </ul>
- <ul> <strong>DEVOPS</strong>   <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
+ <ul> <strong>DEVOPS</strong>   <img src="https://github.com/MehmetIron/MehmetIron/blob/main/Devops_phases.png" alt="devops" width=480 height=auto align="right">
  <li>Docker</li>
  <li>Kubernetes</li>
  <li>Jenkins</li>
@@ -25,7 +25,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>Prometheus</li>
  <li>Ansible</li>
  <li>Sonatype Nexus</li>
- <img src="https://github.com/MehmetIron/MehmetIron/blob/main/Devops_phases.png" alt="devops" width=480 height=auto align="right">
+ <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="center">
  </ul>
 
 <a href="https://www.linkedin.com/in/mehmet-demir-b951b21b8" target="_blank">
