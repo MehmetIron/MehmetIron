@@ -25,7 +25,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>Prometheus</li>
  <li>Ansible</li>
  <li>Sonatype Nexus</li>
- <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="center">
+ <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
  </ul>
 
 <a href="https://www.linkedin.com/in/mehmet-demir-b951b21b8" target="_blank">
