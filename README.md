@@ -8,7 +8,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
 
 <ul > <strong>AWS</strong>
  <li>Cloudformation</li>
- <li>VS Code</li>
+ <li>Cloudfront</li>
  <li>Route53</li>
  <li>ELB</li>
  <li>VPC</li>  
@@ -16,15 +16,21 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>EC2</li>
  <li>Lambda</li>
  <li>RDS</li>
+ <li>ECS</li>
+ <li>ECR</li>
+ <li>EKS</li>
+ <li>Elastic Beanstalk</li>
  </ul>
  <ul> <strong>DEVOPS</strong>   <img src="https://github.com/MehmetIron/MehmetIron/blob/main/Devops_phases.png" alt="devops" width=480 height=auto align="right">
  <li>Docker</li>
+ <li>Swarm</li>
  <li>Kubernetes</li>
  <li>Jenkins</li>
  <li>Grafana</li>
  <li>Prometheus</li>
  <li>Ansible</li>
- <li>Sonatype Nexus</li>
+ <li>Selenium</li>
+ <li>Terraform</li>
  <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
  </ul>
 
