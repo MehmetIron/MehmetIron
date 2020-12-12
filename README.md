@@ -2,7 +2,7 @@
 **xkendx/xkendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hi there 👋
-Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="https://github.com/MehmetIron/home_page/blob/main/aws.png" alt="aws" width=400 height=auto align="right">
+Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="https://github.com/MehmetIron/MehmetIron/blob/main/Devops_phases.png" alt="devops" width=480 height=auto align="right">
 
 ### 🛠  What am I use?
 
@@ -21,7 +21,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>EKS</li>
  <li>Elastic Beanstalk</li>
  </ul>
- <ul> <strong>DEVOPS</strong>   <img src="https://github.com/MehmetIron/MehmetIron/blob/main/Devops_phases.png" alt="devops" width=480 height=auto align="right">
+ <ul> <strong>DEVOPS</strong>   <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
  <li>Docker</li>
  <li>Swarm</li>
  <li>Kubernetes</li>
@@ -31,7 +31,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>Ansible</li>
  <li>Selenium</li>
  <li>Terraform</li>
- <img src="https://github.com/MehmetIron/home_page/blob/main/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
+ <img src=https://github.com/MehmetIron/MehmetIron/blob/main/AWS%20(2).png alt="devops" width=480 height=auto align="right">
  </ul>
 
 <a href="https://www.linkedin.com/in/mehmet-demir-b951b21b8" target="_blank">
