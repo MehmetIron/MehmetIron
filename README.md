@@ -31,7 +31,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <li>Ansible</li>
  <li>Selenium</li>
  <li>Terraform</li>
- <img src=https://github.com/MehmetIron/MehmetIron/blob/main/AWS%20(2).png alt="devops" width=480 height=auto align="right">
+ <p><img align="left" src="AWS (2).png" alt="cloudycody" /></p>
  </ul>
 
 <a href="https://www.linkedin.com/in/mehmet-demir-b951b21b8" target="_blank">
@@ -40,4 +40,3 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
 <!--<a href="https://medium.com/@kendentry" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@kendentry">
 </a> -->
-<p><img align="left" src="AWS (2).png" alt="cloudycody" /></p>
