@@ -40,3 +40,4 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
 <!--<a href="https://medium.com/@kendentry" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@kendentry">
 </a> -->
+<p><img align="left" src="AWS (2).png" alt="cloudycody" /></p>
