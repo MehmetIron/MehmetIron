@@ -34,7 +34,7 @@ Mehmet is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src=
  <p><img align="left" src="AWS (2).png" alt="cloudycody" /></p>
  </ul>
 
-<a href="https://www.linkedin.com/in/mehmet-iron" target="_blank">
+<a href="https://www.linkedin.com/in/mehmetdemir0/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/mehmet-demir-b951b21b8">
 </a>
 <!--<a href="https://medium.com/@kendentry" target="_blank">
